@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FirstApplicationDemo</string>
+    <string name="welcome">Welcome</string>
+    <string name="application_name">FirstApp</string>
+    <string name="enter_the_username">Enter the username</string>
+    <string name="enter_the_password">Enter the password</string>
+    <string name="login">Login</string>
+    <string-array name="colours">
+        <item>Blue</item>
+        <item>Green</item>
+        <item>Red</item>
+        <item>Yellow</item>
+        <item>Grey</item>
+    </string-array>
+</resources>
